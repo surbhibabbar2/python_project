@@ -1,5 +1,18 @@
+#SURBHI BABBAR
+#16csu376
+#OBJECTIVE: automation of mouse pointer
+#DESCRIPTION: it basically automates some of the applications
+#eg:there are 5 buttons in gui as follows:
+#1:facebook: it opens browser and automatically opens facebook account
+#2:chrome:opens chrome
+#3:music:plays music from library
+#4:recycle bin:shows deleted files
+#5:frequency of word in a file  
+#tkinter is used for making gui
+#for finding the cursor positions according to my screen pyautogui is used.
 
-import re
+#CODE
+
 import string
 from tkinter import *
 import pyautogui
